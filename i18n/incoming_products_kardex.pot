@@ -18,7 +18,7 @@ msgstr ""
 #. module: incoming_products_kardex
 #: model_terms:ir.ui.view,arch_db:incoming_products_kardex.incoming_products_kardex_report_document
 msgid "4-AR-22 v0"
-msgstr "4-AR-22 v0"
+msgstr ""
 
 #. module: incoming_products_kardex
 #: model_terms:ir.ui.view,arch_db:incoming_products_kardex.incoming_products_kardex_report_document
